@@ -1,11 +1,14 @@
-module logicgates(a,b,andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate);
+module allgates(a,b,x1,x2,x3,x4,x5,x6,x7);
 input a,b;
-output andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate;
-and(andgate,a,b);
-or(orgate,a,b);
-xor(xorgate,a,b);
-nand(nandgate,a,b);  
-nor(norgate,a,b);
-xnor(xnorgate,a,b);
-not(notgate,a);
+output x1,x2,x3,x4,x5,x6,x7;
+and g1(x1,a,b);
+nand g2(x2,a,b);
+or g3(x3,a,b);
+nor g4(x4,a,b);
+xnor g5(x5,a,b);
+not g6(x6,a);
+xor g7(x7,a,b);
 endmodule
+
+
+
