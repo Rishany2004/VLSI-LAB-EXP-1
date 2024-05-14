@@ -239,8 +239,8 @@ OUTPUT:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-1/assets/159290227/c759d5e8-6a86-441f-9937-5542d62e06b0)
 
 RESULT:
-                
-                Thus the  simulation and synthesis of Logic Gates ,Adders and Subtractor using Xilinx ISE
+
+Thus the  simulation and synthesis of Logic Gates ,Adders and Subtractor using Xilinx ISE
 is verified successfully.
 
 
