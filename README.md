@@ -159,6 +159,7 @@ OUTPUT:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-1/assets/159290227/0bdf8690-2af7-4b16-ae61-e652c20caac4)
 
 
+
 8 BIT RIPPLE CARRY ADDER:
 
 LOGIC DIAGRAM:
