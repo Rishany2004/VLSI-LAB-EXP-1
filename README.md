@@ -166,6 +166,7 @@ LOGIC DIAGRAM:
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7385a408-40a5-4203-8050-b72818622d79)
 
+
 VERILOG CODE:
 ```
 module fa(a,b,cin,sum,carry);
@@ -294,6 +295,7 @@ OUTPUT:
 
 
 
+       
 
 RESULT:
 
